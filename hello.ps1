@@ -1,1 +1,2 @@
-write-host "Hello World"
+start-transcript
+stop-transcript
